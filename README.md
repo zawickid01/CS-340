@@ -1,5 +1,19 @@
 # CS-340
 
 How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+
+The biggest lesson I have been learning in the CS program is the importance of frequent testing.  When there is momentum in the building process, programs quickly become complicated, with multiple moving parts working together.  If one of them breaks, it usually cascades to other elements of the program.  If the developer hasn't tested in a while, it will be difficult to walk back and have a good idea of what could have caused the discrepancy.  I also try to translate my code into plain language with in-line comments.  This is a concept I learned before I ever wrote my first line of code.  My military career, particularly in aviation, provided me with many life lessons on the importance of communication.  Standardized communication can make a team work like a well-oiled machine, but where standardization is less prominent, simple plain language becomes invaluable.
+
+
 How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
-What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+In Marine Corps aviation, pilots and aircrew receive briefs from several agencies before planning a mission, and again before executing.  This brief could come from adjacent units, weather analysts, intelligence agencies, and maintenance crews.  While the information gathered for the mission can be massive, the end state is usually simple.  That endstate is the commander's intent and is comparable, in concept, to a customer's request for software.  Understanding the commander's intent is crucial before the planning and execution phases.  Although I learned these lessons throughout my military career, this method of approaching a problem is very translatable in software development.
+
+In just about every project throughout the CS program, I have used the rubric as my commander's intent.  It helped me build a checklist that would serve as the blueprint for development.  The projects in CS-340 required extra steps before the planning phase: technology research.  I was very unfamiliar with MongoDB and Linux before this course (still with much to learn).  Before I was able to build my blueprints for the project, I needed to research the development tools to understand what development options were at my disposal.  
+
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company like Grazioso Salvare do their work better?
+
+In concept, computer scientists do the same thing that early creators of hand tools did.  These early creators saw a problem: we need something to hold the bolt while something else tightens the nut. Enter the wrench.  The difference is that computer scientists are building tools that handle more complicated tasks to handle many interconnected parts of a problem, not just two.  But, where software receives updates and overhauls, hand tool progression is comparable when considering things like the impact wrench and ratcheting mechanisms.  Computer scientists, simply put, build tools in a world of computerized power.
+
+Companies like Grazioso Salvare had a problem.  The problem is that it isn't feasible to use the raw data to effectively allocate their resources.  Computer scientists can build a tool to solve that problem.
